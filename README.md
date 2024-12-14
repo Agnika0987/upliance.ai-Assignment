@@ -1,6 +1,14 @@
 # upliance.ai-Assignment
 Analysis of user_cookingsession_orderdetails  data of a cooking device
-Key Insights
+
+**There are three datasets:**                                                              
+1. User_details : It contains user's age, demographic details, total orders placed by him etc.                                               
+2. Cooking_session : It contains session ID, Dish Name, Meal Type,Session Start,Session End,Duration (mins), Session Rating etc.                                    
+3. Order_details : It contains OrderID, Order Status,	Amount (USD),	Time of Day,	Rating etc.                                               
+
+
+
+**Key Insights**
 
 **1.	User Details Analysis**
 a)	Total Orders placed (by all users) – 94
