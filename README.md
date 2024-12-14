@@ -31,7 +31,8 @@ d)	Dish Popularity in Sessions – spaghetti and grilled chicken are most cooked
  
 **3) Order Details Analysis**
 
-a)	Total Revenue : No.of orders placed as per users data is 94, but the order details table has only 17 orders – considering 17 orders revenue, revenue generated is 180USD.
+a)	Total Revenue : No.of orders placed as per users data is 94, but the order details table has only 17 orders and all orders are not completed(2 of them cancelled) considering it, only completed
+order’s revenue is calculated i.e., 156.5USD.                                                                   
 
 b)	Order Completion: A significant number of orders were   completed, with a smaller proportion canceled. This indicates a reliable order fulfillment process.
 
@@ -39,7 +40,14 @@ c)	Dish Popularity: Analysis of dish popularity revealed the top-performing dish
  
 d)	Orders by Time of Day: Most orders were placed during night suggesting peak activity periods.
  
-e)	Order Rating: with most of the order ratings ‘4’ it is suggests that we need to improve delivery services.
+e)	Order Rating: with most of the order ratings ‘4’ it is suggests that we need to improve delivery services.                                                    
+
+**4. Analysis of Three datasets Combined**                            
+• Though Irene Moore, Jack White did not attend the cooking sessions they placed 6,8 orders respectively.                                                              
+• Users are spread across major cities like New York, Los Angeles, Chicago, San Francisco, Seattle, Austin, Boston, and Miami.                                                     
+• Amount spent ranges from $7 to $15 per order. Grilled Chicken and Veggie Burger are associated with higher spending.                                                                 
+• Though grilled chicken and spaghetti takes more cooking time compared other dished, they are the most cooked dishes.                                                      
+
  
 **Business Recommendations**
 
